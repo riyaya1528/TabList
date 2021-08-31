@@ -1,0 +1,4 @@
+name: TabPing
+version: '${project.version}'
+main: riyaya1528.paper.tabping.TabPing
+api-version: 1.17
